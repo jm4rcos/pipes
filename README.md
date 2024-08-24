@@ -7,7 +7,7 @@ Um componente React que cria uma animação de linhas em movimento em um canvas 
 1. Clone o repositório:
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/jm4rcos/pipes.git>
    ```
 
 2. Navegue para o diretório do projeto:
